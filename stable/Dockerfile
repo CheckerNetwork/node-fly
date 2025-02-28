@@ -1,2 +1,2 @@
-FROM ghcr.io/checkernetwork/core:21.2.5
+FROM ghcr.io/checkernetwork/node:22.0.1
 ENV FIL_WALLET_ADDRESS=0x802720eeca89AD84b2d91c71f9Dc29052574769E
