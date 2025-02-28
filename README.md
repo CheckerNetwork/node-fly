@@ -1,5 +1,5 @@
-# core-fly
-Station Core deployed to [fly.io](https://fly.io)
+# node-fly
+Checker Node deployed to [fly.io](https://fly.io)
 
 To deploy, push to `main`.
 
